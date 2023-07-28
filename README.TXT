@@ -1,8 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+THIS A CALCULATOR WHICH HELPS US TO PERFORM BASIC CALCULATIONS WHICH WE NEED IN DAY TO DAY LIFE.
 
 PROJECT TITLE: BASIC CALCULATOR APP
 PURPOSE OF PROJECT: SCHOOL PROJECT
